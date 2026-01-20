@@ -1,0 +1,23 @@
+Visualization
+
+Analyzing The Chart:
+
+                  The Chart is Clustered Column chart
+
+                  Food type (food details) food-type
+                  
+                  Y axis=s.of.quantity
+
+                  X axis=food-type
+              
+
+         Includes
+                  Main course (6)k
+                  Snacks (4)k
+                  Dessert (1)k
+                  Breakfast (1)k
+                  Beverage (0)k
+                  Main coursenn (0)k
+                  Appetizer (0)k
+
+ Beverage is sold between 0-1k which is 0-500k                
