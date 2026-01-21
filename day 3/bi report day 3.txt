@@ -1,0 +1,34 @@
+1)Collected the data
+You first gathered the required data (from Excel, CSV, database, or another source).
+
+2)Opened Power BI Desktop
+You launched Power BI Desktop on your computer.
+
+3)Imported the data
+You clicked Get Data → selected the data source → loaded the data into Power BI.
+
+4)Cleaned and prepared the data
+You used Power Query Editor to remove errors, rename columns, and format the data properly.
+
+5)Created relationships (if needed)
+You connected related tables using Model view.
+
+6)Built visualizations
+You added charts, tables, cards, and graphs by dragging fields into the Report view.
+
+7)Applied filters and slicers
+You used filters/slicers to make the report interactive.
+
+8)Formatted the report
+You adjusted colors, titles, labels, and layout to make it clear and presentable.
+
+9)Saved the report
+
+question for thr charts
+
+prepare a chart sum of order id and member type sum of order id by member-t payment-method
+
+prepare the chart count of payment-method by deliver-status and member-type
+
+prepare the chart count of payment-method and first food name by fooditem and customer-name
+
